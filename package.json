@@ -1,0 +1,15 @@
+{
+  "name": "jakiestfu-snap.js",
+  "description": "A Library for creating beautiful mobile shelfs in Javascript (Facebook and Path style side menus)",
+  "version": "1.9.2",
+  "keywords": [
+    "mobile shelfs",
+    "nav",
+    "menu",
+    "mobile",
+    "side menu"
+  ],
+  "main": "snap.js",
+  "dependencies": {},
+  "license": "MIT"
+}
